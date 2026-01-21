@@ -63,9 +63,18 @@ DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-KEYWORD,ttvnw,Proxy
 # > Telegram
+DOMAIN-KEYWORD,swiftgram
+DOMAIN-KEYWORD,telegram
+DOMAIN-SUFFIX,swiftgram.net
+DOMAIN,api.swiftgram.app
+IP-ASN,44907
+IP-ASN,62014
+IP-ASN,59930
+IP-ASN,62041
+IP-ASN,211157
+IP-CIDR,5.28.192.0/18
+IP-CIDR,109.239.140.0/24
 DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 IP-CIDR,91.108.4.0/22,no-resolve
