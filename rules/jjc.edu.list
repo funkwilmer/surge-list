@@ -1,10 +1,10 @@
- === JJC.edu 全域 ===
+# === JJC.edu ===
 DOMAIN-SUFFIX,jjc.edu
 DOMAIN-SUFFIX,stu.jjc.edu
 DOMAIN-SUFFIX,duosecurity.com
 DOMAIN-SUFFIX,mywconline.com
 
-# === Canvas 教学平台 ===
+# === Canvas ===
 DOMAIN-SUFFIX,instructure.com
 DOMAIN-SUFFIX,canvaslms.com
 DOMAIN-SUFFIX,cloudfront.net
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,turnitincdn.com
 DOMAIN-SUFFIX,pandadocs.com
 DOMAIN-SUFFIX,zoom.us
 
-# === Microsoft/Office 登录服务 ===
+# === Microsoft/Office ===
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office365.com
