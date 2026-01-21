@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,my
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ampproject.org
@@ -12,7 +13,6 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,swiftgram.net
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,dropbox
@@ -31,3 +31,15 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,cloudflare.com
+
+DOMAIN-KEYWORD, swiftgram
+DOMAIN-KEYWORD, telegram
+DOMAIN-SUFFIX, swiftgram.net
+DOMAIN, api.swiftgram.app
+IP-ASN, 44907
+IP-ASN, 62014
+IP-ASN, 59930
+IP-ASN, 62041
+IP-ASN, 211157
+IP-CIDR, 5.28.192.0/18
+IP-CIDR, 109.239.140.0/24
