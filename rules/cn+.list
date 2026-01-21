@@ -1,0 +1,124 @@
+# ===== 中国互联网公司 =====
+
+# 阿里系
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+
+# 腾讯系
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wechat.com
+
+# 百度系
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,bdstatic.com
+
+# > QQ Music
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,music.tc.qq.com
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN,aqqmusic.tc.qq.com
+DOMAIN,moo.qq.com
+
+# > China Music Corp
+DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,kugou.com
+
+# > Netease Cloud Music
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.126.net
+DOMAIN,mam.netease.com
+DOMAIN,api.iplay.163.com
+
+# > 汽水音乐
+
+DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,qishuiapp.co
+
+# 酷狗音乐
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kugou.cn
+DOMAIN-SUFFIX,kugou.net
+DOMAIN-SUFFIX,mobileinterfaces.kugou.com
+DOMAIN-SUFFIX,trackercdn.kugou.com
+DOMAIN-SUFFIX,kgcdn.com
+DOMAIN-SUFFIX,kgimg.com
+DOMAIN-SUFFIX,kugoucdn.com
+
+# 酷我音乐
+DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,kwcdn.cn
+DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,mobileinterfaces.kugou.com
+DOMAIN-SUFFIX,antiserver.kuwo.cn
+DOMAIN-SUFFIX,search.kuwo.cn
+DOMAIN-SUFFIX,sycdn.kuwo.cn
+DOMAIN-SUFFIX,webfs.kuwo.cn
+
+
+# ===== 视频 / 音乐 / 社区 =====
+
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,ximalaya.com
+
+# ===== 手机厂商 =====
+
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,oppo.com
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,oneplus.com
+
+# ===== 云 / CDN（相对安全） =====
+
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qnssl.com
+DOMAIN-SUFFIX,chinacache.net
+DOMAIN-SUFFIX,cdntip.com
+
+# ===== 常见国内杂项 =====
+
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jdcdn.com
+DOMAIN-SUFFIX,suning.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,dianping.com
+
+# China
+DOMAIN-SUFFIX,CN
+DOMAIN-KEYWORD,baidu
+USER-AGENT,WeChat*
+USER-AGENT,WeiXin*
+IP-CIDR,198.11.188.0/25,no-resolve
+IP-CIDR,198.11.136.0/24,no-resolve
+USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
+
