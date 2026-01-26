@@ -1,4 +1,4 @@
 # ByteDance
-DOMAIN,snssdk.com
 # (Web)
-DOMAIN,www.amemv.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,snssdk.com
